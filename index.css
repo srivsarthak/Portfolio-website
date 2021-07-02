@@ -1,8 +1,25 @@
+/* body{
+background-image: url(https://www.google.com/search?q=blck+background&tbm=isch&ved=2ahUKEwj8scu3o9rwAhUu3nMBHeI2ALQQ2-cCegQIABAA&oq=blck+background&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQQzoICAAQsQMQgwE6BQgAELEDOgYIABAKEBhQ-WJYn6oBYOarAWgGcAB4BIAB-wGIAecckgEGMC4yMy4ymAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=nGSnYPzzFa68z7sP4u2AoAs&bih=704&biw=1536#imgrc=2eWuIWNqqku_5M&imgdii=HZ-oE2yX5uc-_M);
+background-color: #cccccc;
+background-size: cover;
+} */
+
+
+
+
+
 .Heading{
 @font-face {
     font-family:'Arvo', serif; 
     src: url(<link href="https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap" rel="stylesheet">);
 }
+margin-left: 100%;
+margin-right: 80%;
+margin-top: 10%;
+margin-bottom: 0%;
+
+padding-left: 10%;
+
 }
 .About-me{
 text-align: justify;
@@ -13,4 +30,14 @@ padding-bottom: 50px;
 padding-top: 10px;
 border-right: 50px;
 word-wrap: break-word;
+}
+
+.homepagephoto
+{
+padding-left: 30px;
+padding-right: 100px;
+padding-bottom: 50px;
+padding-top: 10px;
+border-right: 50px;
+
 }
